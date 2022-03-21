@@ -7,8 +7,8 @@
       "AdmobNative" : " ca-app-pub-4251694188521020/3477816639",
 
       "FaceInterstitial":"IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
-      "FaceBanner":"IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
-      "FaceNative" : "IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
+      "FaceBanner":"IMG_16_9_APP_INSTALL#1813394339051764_1813395269051671",
+      "FaceNative" : "IMG_16_9_APP_INSTALL#1813394339051764_1813395442384987",
 
       "UnityGame":"",
       "UnityInterstitial":"Interstitial_Android",
@@ -21,8 +21,8 @@
       "ApplovinBannerMax":"",
       "ApplovinNativeMax" : "",
 
-      "IronInterstitial" : "",
-      "IronBanner" : "",
+      "IronInterstitial" : "7812942",
+      "IronBanner" : "7812940",
 	  
 	  
     //admob or fan or max or unity or iron
